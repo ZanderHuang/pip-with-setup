@@ -34,7 +34,7 @@ jobs:
 
 
 
-    working_directory: ~/example-pip-circle
+    working_directory: ~/pip-with-setup
 
 
 
